@@ -11,6 +11,8 @@ Explore the data in order to obtain more insight from the data.
 ##Business metric
 Classification accuracy - number of correct prediction divided by the total number of prediction defined as:
 ![image](https://user-images.githubusercontent.com/109141966/178960274-51d3d24e-4cd8-45d4-b367-b2441e6de6ab.png)
+
+
 ##Deliverables
 Accurate predictive algorithms
 Business case report to stakeholders
